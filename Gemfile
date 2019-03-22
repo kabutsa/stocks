@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# 22 march 2019  Kab
+# 22 march 2019  Kab 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 gem 'sqlite3'
